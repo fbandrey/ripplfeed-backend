@@ -1,0 +1,11 @@
+common: &common
+  foo: 'bar'
+
+development:
+  <<: *common
+
+test:
+  <<: *common
+
+production:
+  <<: *common

@@ -1,0 +1,41 @@
+# --- hidden directories
+/.bundle
+/.idea
+/.project
+/.sass-cache
+
+# --- hidden files
+/.DS_Store
+/.powrc
+/.rspec-local
+/.ruby-gemset
+/.rvmrc
+
+# --- directories
+/coverage
+/log
+/node_modules
+/public/assets
+/public/system
+/public/uploads
+/spec/tmp
+/spec/vcr
+/test
+/tmp
+/vendor/bundle
+
+# --- files
+/config/app_environment_variables.rb
+/config/database.yml
+/db/structure.sql
+/db/schema.rb
+/npm-debug.log
+/webpack-assets.json
+/rerun.txt
+
+# --- globs
+/*.env
+/*.pdf
+/*.rbc
+/*.sassc
+/*.sublime-*
